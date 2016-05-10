@@ -10,7 +10,7 @@ public class Fer {
 
 //		String result = new JmeterDes().getDesString("ccc", "key");
 //		System.out.println(result);
-		
+		//sdfsadf
 		
 		DesEncrypt de = new DesEncrypt();
 		de.setKey("385963bcab8446ff87b17b254481dac4");
